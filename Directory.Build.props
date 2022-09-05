@@ -1,0 +1,9 @@
+<Project>
+  <PropertyGroup Label="Package information">
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/yandex-cloud/dotnet-sdk/</PackageProjectUrl>
+    <PackageReleaseNotes>Yandex Cloud SDK</PackageReleaseNotes>
+    <Authors>Yandex.Cloud</Authors>
+    <Copyright>Copyright 2022, YANDEX LLC.</Copyright>
+  </PropertyGroup>
+</Project>
