@@ -1,5 +1,6 @@
 [![Nuget](https://img.shields.io/nuget/v/Yandex.Cloud.SDK)](https://www.nuget.org/packages/Yandex.Cloud.SDK/)
 [![CircleCI](https://img.shields.io/circleci/build/gh/yandex-cloud/dotnet-sdk/master)](https://circleci.com/gh/yandex-cloud/dotnet-sdk/tree/master)
+![GitHub Actions](https://github.com/yandex-cloud/dotnet-sdk/actions/workflows/dotnet.yml/badge.svg)
 [![License](https://img.shields.io/github/license/yandex-cloud/dotnet-sdk.svg)](https://github.com/yandex-cloud/dotnet-sdk/blob/master/LICENSE)
 
 # Yandex.Cloud SDK (C#) 
